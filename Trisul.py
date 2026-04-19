@@ -15,3 +15,4 @@ def calculate_area(radius):
 # MISTAKE 3: Undefined variable 'r' (should be 'radius_value')
 radius_value = 5
 print("The area is:", calculate_area(r))
+print(class , <str>

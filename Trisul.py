@@ -17,3 +17,4 @@ radius_value = 5
 print("The area is:", calculate_area(r))
 print(class , <str> 
         print("10"
+              print("ai modal" i)
